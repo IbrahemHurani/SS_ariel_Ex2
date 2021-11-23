@@ -4,7 +4,6 @@ int main() {
 	char Select;
 	int mat[N][N];
 	do{
-		printf("Enter your Select:\n");
 		scanf("%s", &Select);
 		switch (Select)
 		{
