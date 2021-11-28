@@ -6,6 +6,6 @@
 void input(int mat[][N]);
 void Check_path(int arr[][N]);
 int min(int a, int b) ;
-int Check(int mat[][N],int i,int j);
+void C(int mat[][N]);
 void floydWarshalle(int mat[][N]);
 #endif
