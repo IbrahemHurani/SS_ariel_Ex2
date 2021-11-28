@@ -17,7 +17,7 @@ void Check_path(int arr[][N]) {
 	int i, j;
 	scanf("%d", &i);
 	scanf("%d", &j);
-	if (arr[i][j] != 0 && arr[j][i] == arr[i][j]){
+	if (arr[i][j] != 0){
 		printf("True");
 	}
 	else {
