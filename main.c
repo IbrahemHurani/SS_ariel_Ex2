@@ -16,7 +16,7 @@ int main() {
 			break;
 		}
 		case 'C': {
-			floydWarshalle(mat);
+			C(mat);
 			break;
 		}
 		}
